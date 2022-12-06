@@ -8,7 +8,7 @@ This project is ideal for avoiding someone annoying, it takes no more than 20 li
 
 ## The Goal
 
-We wanted a project that uses very little Javascript but still with a very fun application. The excuse generator takes
+We wanted a project that uses very little Javascript but still with a very fun application. The excuse generator takes          33333   
 20 lines of code, is super simple to understand and is the perfect first project for any beginner developer.
 
 ## Instructions
@@ -27,7 +27,7 @@ The idea is to generate each part of the sentence randomly to come up with great
 
 Do not clone this repository.
 
-The first step to start coding is cloning the [vanillajs boilerplate](https://github.com/4GeeksAcademy/vanillajs-hello) on your local computer or gitpod.
+The first step to start coding is cloning the [vanillajs boilerplate](https://github.com/4GeeksAcademy/vanillajs-hello) on your local computer or gitpod.          
 
 a) If using Gitpod (recommended) you can clone the boilerplate by [clicking here](https://github.com/4GeeksAcademy/vanillajs-hello).  
 b) If working locally type the following command from your command line: `git clone https://github.com/4GeeksAcademy/vanillajs-hello`.  
@@ -42,7 +42,7 @@ b) If working locally type the following command from your command line: `git cl
   <p id="excuse">My dog ate my homework</p>
 ```
 3. Using javascript, create a function that generates and returns a random excuse with the following structure:
-```js
+```
 let who = ['The dog','My grandma','His turtle','My bird'];
 let action = ['ate','peed','crushed','broke'];
 let what = ['my homework', 'the keys', 'the car'];
@@ -54,8 +54,7 @@ let when = ['before the class','right on time','when I finished','during my lunc
 
 ## Technologies
 
-HTML, CSS3, Javascript, Webpack.
-
+HTML, CSS3, Javascript y paquete web.
 ## Fundamentals
 
 This exercise covers the following fundamentals:
